@@ -1,0 +1,37 @@
+{
+  "name": "tagbot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@darenft/react-3d-hover-card": "^1.0.9",
+    "@lottiefiles/react-lottie-player": "^3.5.4",
+    "@sl-codeblaster/react-3d-animated-card": "^1.0.8",
+    "card3d": "^2.6.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-type-animation": "^3.2.0",
+    "remixicon": "^4.3.0",
+    "swiper": "^11.1.5",
+    "use-3d-effect": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}
