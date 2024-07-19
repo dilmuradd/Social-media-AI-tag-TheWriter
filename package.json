@@ -12,7 +12,6 @@
   "dependencies": {
     "@darenft/react-3d-hover-card": "^1.0.9",
     "@lottiefiles/react-lottie-player": "^3.5.4",
-    "@sl-codeblaster/react-3d-animated-card": "^1.0.8",
     "card3d": "^2.6.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
