@@ -11,6 +11,7 @@ import { Autoplay } from 'swiper/modules';
 import svg1 from './svg1.svg'
 import svg2 from './svg2.svg'
 import svg3 from './svg3.svg'
+
 const Info = () => {
   return (
     <div>
@@ -41,7 +42,7 @@ const Info = () => {
         className="mySwiper flex items-center justify-center p-[30px] "
       >
         <SwiperSlide className=' w-[100px] h-[350px] flex items-center justify-center'>
-            <div className='w-[300px] p-[20px] h-[350px] border rounded-lg bg-blue-100 cursor-pointer scale-[0.98] transition-all hover:shadow-xl shadow-lg hover:scale-[1]'>
+            <div className='w-[300px]  p-[20px] h-[350px] border rounded-lg bg-blue-100 cursor-pointer scale-[0.98] transition-all hover:shadow-xl shadow-lg hover:scale-[1]'>
                 <div className='flex justify-center'>
                     <img src={svg1} alt="svg" className='w-[200px] h-[100px] mt-[20px]' />
 

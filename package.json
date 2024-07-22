@@ -12,13 +12,15 @@
   "dependencies": {
     "@darenft/react-3d-hover-card": "^1.0.9",
     "@lottiefiles/react-lottie-player": "^3.5.4",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^1.7.2",
     "card3d": "^2.6.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.25.1",
     "react-type-animation": "^3.2.0",
     "remixicon": "^4.3.0",
-    "swiper": "^11.1.5",
-    "use-3d-effect": "^1.1.0"
+    "swiper": "^11.1.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
